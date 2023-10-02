@@ -44,7 +44,7 @@ try:
     logging.info("Formulario de login completado.")
 
     # Navegar a la página de gestión de DNS
-    driver.get("https://www1.domain.com/controlpanel/foundation/codifyanalytics.tech/dns")
+    driver.get("https://www1.domain.com/controlpanel/foundation/YOURDOMAINGOESHERE/dns")
     logging.info("Navegado a la página de gestión de DNS.")
 
     # Hacer click en el span 'DNS RECORDS'
